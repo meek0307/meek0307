@@ -1,4 +1,4 @@
-![MasterHEAD]("C:\Users\HP\Downloads\github_GIF.gif")
+![logo](https://github.com/meek0307/meek0307/blob/main/github_GIF.gif)
 <h1 align="center">Hi 👋, I'm Ramneek Kaur</h1>
 <h3 align="center">As a data analyst enthusiast with a strong background in electronics and communication engineering, I am passionate about using my technical skills to solve real-world problems. I am proficient in a variety of programming languages and software tools used in data analysis and machine learning.</h3>
 
